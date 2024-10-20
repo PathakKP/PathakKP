@@ -1,1 +1,5 @@
-My name is Kush and I'm a Frontend Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+I am a full-stack software engineer. I love programming, reading, writing and speaking.
+
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+
+That's why I like to make things that make a difference
